@@ -1,0 +1,4 @@
+C:\Users\G\Documents\Projects\ResizeImages\ResizeImages\bin\Debug\ResizeImages.exe
+C:\Users\G\Documents\Projects\ResizeImages\ResizeImages\bin\Debug\ResizeImages.pdb
+C:\Users\G\Documents\Projects\ResizeImages\ResizeImages\obj\x86\Debug\ResizeImages.exe
+C:\Users\G\Documents\Projects\ResizeImages\ResizeImages\obj\x86\Debug\ResizeImages.pdb
